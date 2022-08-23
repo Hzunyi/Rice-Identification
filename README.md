@@ -1,4 +1,4 @@
-# Rice-Monitoring
+# Rice-RMAU-Net
 model:RMAU-Net
 1.Title： Rice Monitoring Based on Multi-Temporal Sentinel-1 SAR Images and an Attention U-Net Model
 2.Key words: Rice monitoring, Polarimetric synthetic aperture radar, Deep convolutional neural network, Transfer mechanism
